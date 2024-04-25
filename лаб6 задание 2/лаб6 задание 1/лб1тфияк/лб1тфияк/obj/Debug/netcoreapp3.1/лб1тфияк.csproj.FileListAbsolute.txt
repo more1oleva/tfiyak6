@@ -1,0 +1,51 @@
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.exe
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.deps.json
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.runtimeconfig.json
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.runtimeconfig.dev.json
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.dll
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.pdb
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.csproj.AssemblyReference.cache
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.Form1.resources
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.csproj.GenerateResource.cache
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.AssemblyInfoInputs.cache
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.AssemblyInfo.cs
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.dll
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.pdb
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.genruntimeconfig.cache
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.Properties.Resources.resources
+C:\Users\Ольга\Downloads\лб1тфияк (4)\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.exe
+C:\Users\Ольга\Downloads\лб1тфияк (4)\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.deps.json
+C:\Users\Ольга\Downloads\лб1тфияк (4)\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.runtimeconfig.json
+C:\Users\Ольга\Downloads\лб1тфияк (4)\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.runtimeconfig.dev.json
+C:\Users\Ольга\Downloads\лб1тфияк (4)\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.dll
+C:\Users\Ольга\Downloads\лб1тфияк (4)\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.pdb
+C:\Users\Ольга\Downloads\лб1тфияк (4)\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.csproj.AssemblyReference.cache
+C:\Users\Ольга\Downloads\лб1тфияк (4)\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.Form1.resources
+C:\Users\Ольга\Downloads\лб1тфияк (4)\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.Properties.Resources.resources
+C:\Users\Ольга\Downloads\лб1тфияк (4)\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.csproj.GenerateResource.cache
+C:\Users\Ольга\Downloads\лб1тфияк (4)\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Downloads\лб1тфияк (4)\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.AssemblyInfoInputs.cache
+C:\Users\Ольга\Downloads\лб1тфияк (4)\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.AssemblyInfo.cs
+C:\Users\Ольга\Downloads\лб1тфияк (4)\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Downloads\лб1тфияк (4)\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.dll
+C:\Users\Ольга\Downloads\лб1тфияк (4)\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.pdb
+C:\Users\Ольга\Downloads\лб1тфияк (4)\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.genruntimeconfig.cache
+C:\Users\Ольга\Downloads\лаб6 задание 1\лаб6 задание 1\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.exe
+C:\Users\Ольга\Downloads\лаб6 задание 1\лаб6 задание 1\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.deps.json
+C:\Users\Ольга\Downloads\лаб6 задание 1\лаб6 задание 1\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.runtimeconfig.json
+C:\Users\Ольга\Downloads\лаб6 задание 1\лаб6 задание 1\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.runtimeconfig.dev.json
+C:\Users\Ольга\Downloads\лаб6 задание 1\лаб6 задание 1\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.dll
+C:\Users\Ольга\Downloads\лаб6 задание 1\лаб6 задание 1\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.pdb
+C:\Users\Ольга\Downloads\лаб6 задание 1\лаб6 задание 1\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.csproj.AssemblyReference.cache
+C:\Users\Ольга\Downloads\лаб6 задание 1\лаб6 задание 1\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.Form1.resources
+C:\Users\Ольга\Downloads\лаб6 задание 1\лаб6 задание 1\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.Properties.Resources.resources
+C:\Users\Ольга\Downloads\лаб6 задание 1\лаб6 задание 1\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.csproj.GenerateResource.cache
+C:\Users\Ольга\Downloads\лаб6 задание 1\лаб6 задание 1\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Downloads\лаб6 задание 1\лаб6 задание 1\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.AssemblyInfoInputs.cache
+C:\Users\Ольга\Downloads\лаб6 задание 1\лаб6 задание 1\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.AssemblyInfo.cs
+C:\Users\Ольга\Downloads\лаб6 задание 1\лаб6 задание 1\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Downloads\лаб6 задание 1\лаб6 задание 1\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.dll
+C:\Users\Ольга\Downloads\лаб6 задание 1\лаб6 задание 1\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.pdb
+C:\Users\Ольга\Downloads\лаб6 задание 1\лаб6 задание 1\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.genruntimeconfig.cache

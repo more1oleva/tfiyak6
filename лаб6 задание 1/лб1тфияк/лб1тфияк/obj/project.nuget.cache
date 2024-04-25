@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j3E8d3qebAj/uqCZbxa+bGDDzy6mYlFteKdRj1GsVuQmbLXMK/BW0dBl3wjr4XxzDIGX7vCs5DVv1pAFK1e4Ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ольга\\Desktop\\лаб6 задание 1\\лб1тфияк\\лб1тфияк\\лб1тфияк.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ольга\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
