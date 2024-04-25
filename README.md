@@ -7,7 +7,7 @@
 ![Снимок](https://github.com/more1oleva/tfiyak6/assets/118746926/019cfa6d-465b-4285-88ee-576c10fc45b7) \
 Построить РВ для проверки ISBN-13 \
  @"^(978|979)-\d{1,5}-\d{2,7}-\d{1,6}-\d$" \
-![Снимок](https://github.com/more1oleva/tfiyak6/assets/118746926/f4887f49-d42c-4d8d-9446-5d7670d088c6) \
+ ![Снимок](https://github.com/more1oleva/tfiyak6/assets/118746926/d47b5f2a-86ff-4810-b36b-7c8a98822cc8) \
 Построить РВ для проверки данных на соответствие формату кодирования Base64 \
 @"^[A-Za-z0-9+/]+={0,2}$" \
 ![Снимок](https://github.com/more1oleva/tfiyak6/assets/118746926/6b065bf8-9524-4a4d-94c5-e85cc864d9b0)
